@@ -2,8 +2,8 @@
 
 一个视频转 WebP 动图的桌面小工具，支持自定义文本水印。
 
-![应用截图](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png) 
-*(提示：请将上面的截图链接替换为您自己的实际截图URL)*
+<img width="1833" height="1337" alt="image" src="https://github.com/user-attachments/assets/a2ecdf04-5869-4d74-a3d0-9a83b566c2b2" />
+
 
 ## 主要功能特点
 
